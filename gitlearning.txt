@@ -3,3 +3,5 @@ git is free software
 I am learning git now, but I don't know how to use it yet.
 
 git is 
+
+git is a distributed
