@@ -22,4 +22,8 @@ pip install -r requirements.txt
 ```powershell
 python my_first_python.py
 ```
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
